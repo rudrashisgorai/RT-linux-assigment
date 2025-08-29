@@ -1,7 +1,7 @@
 # RT-linux-assigment
 
 > Real-Time Programming with Linux  
-> https://github.com/rudrashisgorai/RT-linux-assigment
+> https://github.com/rudrashisgorai/RT-linux-assignment
 
 ## Overview  
 Wrap POSIX threads into C++ classes to practice:
