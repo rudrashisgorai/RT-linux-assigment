@@ -1,4 +1,4 @@
-# RT-linux-assigment
+# RT-linux-assignment
 
 > Real-Time Programming with Linux  
 > https://github.com/rudrashisgorai/RT-linux-assignment
@@ -12,7 +12,7 @@ Wrap POSIX threads into C++ classes to practice:
 
 ## Repo & Clone
 ```bash
-git clone https://github.com/rudrashisgorai/RT-linux-assigment.git
+git clone https://github.com/rudrashisgorai/RT-linux-assignment.git
 cd RT-linux-assigment
 ```
 
